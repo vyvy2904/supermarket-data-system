@@ -17,6 +17,6 @@
 - `diagrams/`: BFD & ERD
 - `docs/`: Project report and business requirements
 
-![ERD Diagram](./diagrams/ERD.png)
-![BFD Diagram](./diagrams/BFD.png)
+![ERD Diagram](./diagrams/ERD.jpg)
+![BFD Diagram](./diagrams/BFD.jpg)
 https://github.com/kieuvotuongvy/supermarket-data-system
