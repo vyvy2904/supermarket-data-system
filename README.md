@@ -16,4 +16,7 @@
 - `scripts/`: Oracle SQL scripts
 - `diagrams/`: BFD & ERD
 - `docs/`: Project report and business requirements
+
+![ERD Diagram](./diagrams/ERD.png)
+![BFD Diagram](./diagrams/BFD.png)
 https://github.com/kieuvotuongvy/supermarket-data-system
