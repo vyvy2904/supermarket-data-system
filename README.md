@@ -1,4 +1,4 @@
-# supermarket-data-system
+![Relational Data model](https://github.com/user-attachments/assets/530dadb1-34ba-4814-8e2f-3c96a71baf54)# supermarket-data-system
 🎯 **Objective**: Build a relational database for supermarket operations using Oracle PL/SQL.
 
 🧠 **Key Business Goals**:
@@ -16,7 +16,12 @@
 - `scripts/`: Oracle SQL scripts
 - `diagrams/`: BFD & ERD
 - `docs/`: Project report and business requirements
+<h4>📌 ERD - Entity Relationship Diagram</h4>
+<img src="./diagrams/ERD.jpg" alt="ERD Diagram" width="600"/>
+<h4>📌 BFD - Bidirectional Forwarding Detection/h4>
+<img src="./diagrams/BFD.png" alt="BFD Diagram" width="600"/>
+<h4>📌 Bidirectional Forwarding Detection/h4>
+<img src="./diagrams/BFD.png" alt="BFD Diagram" width="600"/>
+<h4>📌 Relational Data model/h4>
+<img src="./diagrams/Relational Data model.jpg" alt="Relational Data model" width="600"/>
 
-![ERD Diagram](./diagrams/ERD.jpg)
-![BFD Diagram](./diagrams/BFD.jpg)
-https://github.com/kieuvotuongvy/supermarket-data-system
