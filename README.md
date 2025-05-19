@@ -17,9 +17,14 @@
 - `diagrams/`: BFD & ERD
 - `docs/`: Project report and business requirements
 <h4>📌 ERD - Entity Relationship Diagram </h4>
-<img src="./diagrams/ERD.jpg" alt="ERD Diagram" width="600"/>
+<div align="center">
+  <img src="./diagrams/ERD.png" alt="ERD Diagram" width="600"/>
+</div>
 <h4>📌 BFD - Bidirectional Forwarding Detection</h4>
-<img src="./diagrams/BFD.jpg" alt="BFD Diagram" width="600"/>
+<div align="center">
+  <img src="./diagrams/BFD.jpg" alt="BFD Diagram" width="600"/>
+</div>
 <h4>📌 Relational Data model</h4>
-<img src="./diagrams/Relational Data model.jpg" alt="Relational Data model" width="600"/>
-
+<div align="center">
+  <img src="./diagrams/Relational Data model.jpg" alt="Relational Data model" width="600"/>
+</div>
